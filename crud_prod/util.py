@@ -27,7 +27,7 @@ def menu(lista):
     for item in lista:
         print(f'{c} - {item}')
         c += 1
-        print(linha)
-        opc = entrada('Sua opçao: ')
-        return opc
+        print(linha())
+    opc = entrada('Sua opçao: ')
+    return opc
 

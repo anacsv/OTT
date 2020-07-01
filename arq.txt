@@ -1,1 +1,3 @@
-prego;ferro
+espelho;variado
+pente;variado
+mouse;info
