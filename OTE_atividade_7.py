@@ -23,6 +23,6 @@ class Cachorro(Gato):
      print(self.__pitbull)
 
 animal = Cachorro()
-# erro, pois frajola é privado somente a classe Gato
+# ocorre um erro, pois frajola é privado, pode ser acessado somente pela classe Gato
 print(animal.__frajola) 
 
